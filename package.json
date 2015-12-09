@@ -2,10 +2,8 @@
   "name": "ionic-toast",
   "version": "0.2.0",
   "description": "A toast for IONIC framework",
-  "main": [
-    "./dist/ionic-toast.js",
-    "./dist/style.css"
-  ],
+  "main": "./dist/ionic-toast.js",
+  "style": "./dist/ionic-toast.css",
   "scripts": {},
   "author": "https://github.com/rajeshwarpatlolla, rajeshwar.patlolla@gmail.com",
   "license": "MIT",
